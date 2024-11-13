@@ -20,5 +20,6 @@ To create a web platform using HTML, CSS, and JavaScript that focuses on improvi
 - [ ] HTML
 - [ ] CSS
 - [ ] Javascript
+- [ ] Bootstrap
 - [ ] Version Controls: Git and Gitlab
 ***
